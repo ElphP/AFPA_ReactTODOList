@@ -1,0 +1,28 @@
+.body {
+   
+    background-color: bisque;
+    border: 3px solid lightcoral ;
+    width: 30%;
+    margin:5px auto;
+}
+
+button  {
+    margin: 5px;
+    min-width: 80px;
+    background-color: rgb(52, 52, 236);
+    color:white;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    font-size: 1.2rem;
+}
+
+ul li{
+   text-align: start;
+   list-style: decimal;
+   margin-left: 100px;
+   font-weight: bold;
+   font-size: 1.6rem;
+}
+input  {
+    width: 300px;
+}
