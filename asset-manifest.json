@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AFPA_ReactTODOList/static/css/main.b79f7c12.css",
+    "main.js": "/AFPA_ReactTODOList/static/js/main.cef89be2.js",
+    "static/js/787.29d840e4.chunk.js": "/AFPA_ReactTODOList/static/js/787.29d840e4.chunk.js",
+    "index.html": "/AFPA_ReactTODOList/index.html",
+    "main.b79f7c12.css.map": "/AFPA_ReactTODOList/static/css/main.b79f7c12.css.map",
+    "main.cef89be2.js.map": "/AFPA_ReactTODOList/static/js/main.cef89be2.js.map",
+    "787.29d840e4.chunk.js.map": "/AFPA_ReactTODOList/static/js/787.29d840e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b79f7c12.css",
+    "static/js/main.cef89be2.js"
+  ]
+}
